@@ -2,7 +2,8 @@
 
 **CoreVanguard** is a lightweight, low-latency hardware monitoring overlay designed for PC gamers and power users. Built entirely in Python, it directly hooks into kernel-level data to provide real-time thermal throttling alerts, frame timing, and system resource management without the heavy overhead of traditional monitoring software.
 
-*(Insert a screenshot of your dashboard here later by dragging and dropping an image into the GitHub editor!)*
+<img width="959" height="540" alt="Screenshot 2026-08-06 094618" src="https://github.com/user-attachments/assets/d10732ab-54dc-4764-a025-fc0b41ccf125" />
+
 
 ## Key Features
 
